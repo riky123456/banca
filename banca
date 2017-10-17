@@ -1,0 +1,15 @@
+public class Banca {
+
+    private String nome;
+    private String rad;
+    private int ncontitot;
+    private int contiatt;
+
+    Conto[] a = new Conto[contiatt];
+
+
+    public Conto AggiungiConto
+
+
+
+}
